@@ -3,7 +3,13 @@ AirQualityMonitor
 
 Opis projektu
 -------------
-Aplikacja monitorująca jakość powietrza, napisana w C++ z użyciem frameworku Qt 6.8.3. Projekt zawiera interfejs graficzny do wyświetlania danych ze stacji pomiarowych oraz testy jednostkowe.
+Aplikacja monitorująca jakość powietrza, w C++ z użyciem frameworku Qt 6.8.3.
+
+Wymagania
+---------
+- Qt 6.8.3 (MinGW 64-bit)
+- CMake 3.16 lub nowszy
+- Kompilator MinGW (np. dostarczony z Qt)
 
 Instalacja i budowanie
 ----------------------
