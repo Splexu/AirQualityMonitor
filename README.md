@@ -11,12 +11,12 @@ Projekt w ramach zajęc JPO 2025.
 Wymagania
 -------------
 KONFIGURACJA MINIMALNA:
-System operacyjny: TAK
-Procesor: Warto by jakiś był
-Pamięć: 1 MB RAM
-Karta graficzna: Jeśli chcesz widziec GUI
-Miejsce na dysku: 1 GB dostępnej przestrzeni
-Karta dźwiękowa: Nie potrzebujesz
+- System operacyjny: TAK
+- Procesor: Warto by jakiś był
+- Pamięć: 1 MB RAM
+- Karta graficzna: Jeśli chcesz widziec GUI
+- Miejsce na dysku: 1 GB dostępnej przestrzeni
+- Karta dźwiękowa: Nie potrzebujesz
 
 PROGRAMY:
 - Qt 6.8.3 (MinGW 64-bit)
