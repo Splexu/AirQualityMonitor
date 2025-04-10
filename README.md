@@ -36,8 +36,7 @@ Pliki
 - MainWindow.cpp/h: Logika głównego okna
 - AirQualityManager.cpp/h: Zarządzanie danymi z API
 - tests.cpp: Testy jednostkowe
-- AirQualityMonitor.rar: Archiwum z dodatkowymi danymi
-
+- AirQualityMonitor.rar: Projekt jako rar
 
 -------------
 Autor
