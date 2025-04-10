@@ -1,0 +1,66 @@
+\doxysection{airqualitymanager.\+h}
+\hypertarget{airqualitymanager_8h_source}{}\label{airqualitymanager_8h_source}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#pragma\ once}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#include\ <QObject>}}
+\DoxyCodeLine{00003\ \textcolor{preprocessor}{\#include\ <QNetworkAccessManager>}}
+\DoxyCodeLine{00004\ \textcolor{preprocessor}{\#include\ <QJsonDocument>}}
+\DoxyCodeLine{00005\ \textcolor{preprocessor}{\#include\ <QJsonObject>}}
+\DoxyCodeLine{00006\ \textcolor{preprocessor}{\#include\ <QJsonArray>}}
+\DoxyCodeLine{00007\ \textcolor{preprocessor}{\#include\ <QDateTime>}}
+\DoxyCodeLine{00008\ }
+\DoxyCodeLine{00013\ \textcolor{keyword}{struct\ }\mbox{\hyperlink{struct_station}{Station}}\ \{}
+\DoxyCodeLine{00014\ \ \ \ \ \textcolor{keywordtype}{int}\ \mbox{\hyperlink{struct_station_a4144cd1a5a69d5900f473ea9d792b3fe}{id}};\ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00015\ \ \ \ \ QString\ \mbox{\hyperlink{struct_station_a1a9b7bfb37cbb0d5de4a8c14df6987d9}{name}};\ \ \ \ \ \ }
+\DoxyCodeLine{00016\ \ \ \ \ \textcolor{keywordtype}{double}\ \mbox{\hyperlink{struct_station_a0d44ca4230c5ffafaa96b1df701b8e82}{latitude}};\ \ \ }
+\DoxyCodeLine{00017\ \ \ \ \ \textcolor{keywordtype}{double}\ \mbox{\hyperlink{struct_station_a626e719bd9af059a5d8a1bedc1c43b3e}{longitude}};\ \ }
+\DoxyCodeLine{00018\ \};}
+\DoxyCodeLine{00019\ }
+\DoxyCodeLine{00024\ \textcolor{keyword}{struct\ }\mbox{\hyperlink{struct_measurement}{Measurement}}\ \{}
+\DoxyCodeLine{00025\ \ \ \ \ QString\ \mbox{\hyperlink{struct_measurement_a84bd00cf041959c48eafb4de586c61c3}{paramName}};\ }
+\DoxyCodeLine{00026\ \ \ \ \ \textcolor{keywordtype}{double}\ \mbox{\hyperlink{struct_measurement_a823f1a4e614b8d87fa80b58b88207504}{value}};\ \ \ \ \ \ }
+\DoxyCodeLine{00027\ \ \ \ \ QDateTime\ \mbox{\hyperlink{struct_measurement_a0da4c0cd81ae7bd3973696fe8258255a}{dateTime}};}
+\DoxyCodeLine{00028\ \};}
+\DoxyCodeLine{00029\ }
+\DoxyCodeLine{00034\ \textcolor{keyword}{struct\ }\mbox{\hyperlink{struct_sensor}{Sensor}}\ \{}
+\DoxyCodeLine{00035\ \ \ \ \ \textcolor{keywordtype}{int}\ \mbox{\hyperlink{struct_sensor_a234572fa1d52f50a2a3fe349022bd9bd}{id}};\ \ \ \ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00036\ \ \ \ \ QString\ \mbox{\hyperlink{struct_sensor_a375e3c1d08caf4d05731b73c617c4d00}{paramName}};\ }
+\DoxyCodeLine{00037\ \};}
+\DoxyCodeLine{00038\ }
+\DoxyCodeLine{00046\ \textcolor{keyword}{class\ }\mbox{\hyperlink{class_air_quality_manager_a0a304230fcb975eb852bfa677b44cbd2}{AirQualityManager}}\ :\ \textcolor{keyword}{public}\ QObject\ \{}
+\DoxyCodeLine{00047\ \ \ \ \ Q\_OBJECT}
+\DoxyCodeLine{00048\ }
+\DoxyCodeLine{00049\ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00054\ \ \ \ \ \textcolor{keyword}{explicit}\ \mbox{\hyperlink{class_air_quality_manager_a0a304230fcb975eb852bfa677b44cbd2}{AirQualityManager}}(QObject\ *parent\ =\ \textcolor{keyword}{nullptr});}
+\DoxyCodeLine{00055\ }
+\DoxyCodeLine{00057\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_aadc235e7a66aaa0e97cdbadcb6214893}{fetchStations}}();}
+\DoxyCodeLine{00058\ }
+\DoxyCodeLine{00060\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_a2857e7e79c52fa5d39fd03c948a869ce}{fetchMeasurements}}(\textcolor{keywordtype}{int}\ stationId);}
+\DoxyCodeLine{00061\ }
+\DoxyCodeLine{00063\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_a9ebdccdb354065ee88f4c73300e2f697}{fetchSensors}}(\textcolor{keywordtype}{int}\ stationId);}
+\DoxyCodeLine{00064\ }
+\DoxyCodeLine{00066\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_accd40371b0a12cf171e4c5309513e7a7}{fetchSensorData}}(\textcolor{keywordtype}{int}\ sensorId);}
+\DoxyCodeLine{00067\ }
+\DoxyCodeLine{00068\ signals:}
+\DoxyCodeLine{00070\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_ae9074a0df7ac78cf8e11b714935a1ba6}{stationsFetched}}(QList<Station>);}
+\DoxyCodeLine{00071\ }
+\DoxyCodeLine{00073\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_ac0fabab897784b414c6aabb15b0708fc}{sensorsFetched}}(QList<Sensor>);}
+\DoxyCodeLine{00074\ }
+\DoxyCodeLine{00076\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_abe2bb2a8c39416e2d46299a91a1695ad}{measurementsFetched}}(QList<Measurement>);}
+\DoxyCodeLine{00077\ }
+\DoxyCodeLine{00079\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_air_quality_manager_a70a9f56f00d587d9d233e439c2095709}{errorOccurred}}(\textcolor{keyword}{const}\ QString\ \&error);}
+\DoxyCodeLine{00080\ }
+\DoxyCodeLine{00081\ \textcolor{keyword}{private}\ slots:}
+\DoxyCodeLine{00083\ \ \ \ \ \textcolor{keywordtype}{void}\ onStationsReply(QNetworkReply\ *reply);}
+\DoxyCodeLine{00084\ }
+\DoxyCodeLine{00086\ \ \ \ \ \textcolor{keywordtype}{void}\ onMeasurementsReply(QNetworkReply\ *reply);}
+\DoxyCodeLine{00087\ }
+\DoxyCodeLine{00089\ \ \ \ \ \textcolor{keywordtype}{void}\ onSensorsReply(QNetworkReply\ *reply);}
+\DoxyCodeLine{00090\ }
+\DoxyCodeLine{00092\ \ \ \ \ \textcolor{keywordtype}{void}\ onSensorDataReply(QNetworkReply\ *reply);}
+\DoxyCodeLine{00093\ }
+\DoxyCodeLine{00094\ \textcolor{keyword}{private}:}
+\DoxyCodeLine{00095\ \ \ \ \ QNetworkAccessManager\ *networkManager;\ }
+\DoxyCodeLine{00096\ \};}
+
+\end{DoxyCode}

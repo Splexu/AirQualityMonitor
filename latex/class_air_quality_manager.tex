@@ -1,0 +1,78 @@
+\doxysection{Air\+Quality\+Manager Class Reference}
+\hypertarget{class_air_quality_manager}{}\label{class_air_quality_manager}\index{AirQualityManager@{AirQualityManager}}
+
+
+Klasa zarządzająca pobieraniem danych z API GIOŚ.  
+
+
+
+
+{\ttfamily \#include $<$airqualitymanager.\+h$>$}
+
+Inheritance diagram for Air\+Quality\+Manager\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_air_quality_manager}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_air_quality_manager_ae9074a0df7ac78cf8e11b714935a1ba6}\label{class_air_quality_manager_ae9074a0df7ac78cf8e11b714935a1ba6} 
+void {\bfseries stations\+Fetched} (QList$<$ \mbox{\hyperlink{struct_station}{Station}} $>$)
+\begin{DoxyCompactList}\small\item\em Sygnał emitowany po pobraniu listy stacji. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_ac0fabab897784b414c6aabb15b0708fc}\label{class_air_quality_manager_ac0fabab897784b414c6aabb15b0708fc} 
+void {\bfseries sensors\+Fetched} (QList$<$ \mbox{\hyperlink{struct_sensor}{Sensor}} $>$)
+\begin{DoxyCompactList}\small\item\em Sygnał emitowany po pobraniu listy sensorów. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_abe2bb2a8c39416e2d46299a91a1695ad}\label{class_air_quality_manager_abe2bb2a8c39416e2d46299a91a1695ad} 
+void {\bfseries measurements\+Fetched} (QList$<$ \mbox{\hyperlink{struct_measurement}{Measurement}} $>$)
+\begin{DoxyCompactList}\small\item\em Sygnał emitowany po pobraniu danych pomiarowych. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_a70a9f56f00d587d9d233e439c2095709}\label{class_air_quality_manager_a70a9f56f00d587d9d233e439c2095709} 
+void {\bfseries error\+Occurred} (const QString \&error)
+\begin{DoxyCompactList}\small\item\em Sygnał emitowany w przypadku błędu sieciowego. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_air_quality_manager_a0a304230fcb975eb852bfa677b44cbd2}{Air\+Quality\+Manager}} (QObject \texorpdfstring{$\ast$}{*}parent=nullptr)
+\begin{DoxyCompactList}\small\item\em Konstruktor klasy \doxylink{class_air_quality_manager}{Air\+Quality\+Manager}. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_aadc235e7a66aaa0e97cdbadcb6214893}\label{class_air_quality_manager_aadc235e7a66aaa0e97cdbadcb6214893} 
+void {\bfseries fetch\+Stations} ()
+\begin{DoxyCompactList}\small\item\em Pobiera listę wszystkich stacji z API. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_a2857e7e79c52fa5d39fd03c948a869ce}\label{class_air_quality_manager_a2857e7e79c52fa5d39fd03c948a869ce} 
+void {\bfseries fetch\+Measurements} (int station\+Id)
+\begin{DoxyCompactList}\small\item\em Pobiera pomiary dla danej stacji. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_a9ebdccdb354065ee88f4c73300e2f697}\label{class_air_quality_manager_a9ebdccdb354065ee88f4c73300e2f697} 
+void {\bfseries fetch\+Sensors} (int station\+Id)
+\begin{DoxyCompactList}\small\item\em Pobiera listę sensorów dla danej stacji. \end{DoxyCompactList}\item 
+\Hypertarget{class_air_quality_manager_accd40371b0a12cf171e4c5309513e7a7}\label{class_air_quality_manager_accd40371b0a12cf171e4c5309513e7a7} 
+void {\bfseries fetch\+Sensor\+Data} (int sensor\+Id)
+\begin{DoxyCompactList}\small\item\em Pobiera dane pomiarowe dla danego sensora. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Klasa zarządzająca pobieraniem danych z API GIOŚ. 
+
+Odpowiada za komunikację z API, pobieranie danych o stacjach, sensorach i pomiarach oraz obsługę błędów sieciowych. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_air_quality_manager_a0a304230fcb975eb852bfa677b44cbd2}\index{AirQualityManager@{AirQualityManager}!AirQualityManager@{AirQualityManager}}
+\index{AirQualityManager@{AirQualityManager}!AirQualityManager@{AirQualityManager}}
+\doxysubsubsection{\texorpdfstring{AirQualityManager()}{AirQualityManager()}}
+{\footnotesize\ttfamily \label{class_air_quality_manager_a0a304230fcb975eb852bfa677b44cbd2} 
+Air\+Quality\+Manager\+::\+Air\+Quality\+Manager (\begin{DoxyParamCaption}\item[{QObject \texorpdfstring{$\ast$}{*}}]{parent}{ = {\ttfamily nullptr}}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+
+
+Konstruktor klasy \doxylink{class_air_quality_manager}{Air\+Quality\+Manager}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em parent} & Wskaźnik na nadrzędny obiekt (domyślnie nullptr). \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+airqualitymanager.\+h\item 
+airqualitymanager.\+cpp\end{DoxyCompactItemize}

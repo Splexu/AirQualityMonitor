@@ -1,0 +1,97 @@
+\doxysection{Main\+Window Class Reference}
+\hypertarget{class_main_window}{}\label{class_main_window}\index{MainWindow@{MainWindow}}
+
+
+Główne okno aplikacji monitorującej jakość powietrza.  
+
+
+
+
+{\ttfamily \#include $<$mainwindow.\+h$>$}
+
+Inheritance diagram for Main\+Window\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_main_window}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_main_window_a996c5a2b6f77944776856f08ec30858d}{Main\+Window}} (QWidget \texorpdfstring{$\ast$}{*}parent=nullptr)
+\begin{DoxyCompactList}\small\item\em Konstruktor klasy \doxylink{class_main_window}{Main\+Window}. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_main_window_ae6ce94c7afafa56939025daeb8b43f5d}{calculate\+Distance}} (double lat1, double lon1, double lat2, double lon2)
+\begin{DoxyCompactList}\small\item\em Oblicza odległość między dwoma punktami na Ziemi w kilometrach. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_main_window_ab3f662d4a50c4c0c6c7293c2509156de}{analyze\+Measurements}} (const QList$<$ \mbox{\hyperlink{struct_measurement}{Measurement}} $>$ \&measurements)
+\begin{DoxyCompactList}\small\item\em Analizuje dane pomiarowe i wyświetla wyniki w sekcji analizy. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Główne okno aplikacji monitorującej jakość powietrza. 
+
+Klasa ta zarządza interfejsem użytkownika, wyświetla dane pomiarowe, wykresy i analizy, oraz obsługuje interakcje z użytkownikiem. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_main_window_a996c5a2b6f77944776856f08ec30858d}\index{MainWindow@{MainWindow}!MainWindow@{MainWindow}}
+\index{MainWindow@{MainWindow}!MainWindow@{MainWindow}}
+\doxysubsubsection{\texorpdfstring{MainWindow()}{MainWindow()}}
+{\footnotesize\ttfamily \label{class_main_window_a996c5a2b6f77944776856f08ec30858d} 
+Main\+Window\+::\+Main\+Window (\begin{DoxyParamCaption}\item[{QWidget \texorpdfstring{$\ast$}{*}}]{parent}{ = {\ttfamily nullptr}}\end{DoxyParamCaption})}
+
+
+
+Konstruktor klasy \doxylink{class_main_window}{Main\+Window}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em parent} & Wskaźnik na nadrzędny widget (domyślnie nullptr). \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_main_window_ab3f662d4a50c4c0c6c7293c2509156de}\index{MainWindow@{MainWindow}!analyzeMeasurements@{analyzeMeasurements}}
+\index{analyzeMeasurements@{analyzeMeasurements}!MainWindow@{MainWindow}}
+\doxysubsubsection{\texorpdfstring{analyzeMeasurements()}{analyzeMeasurements()}}
+{\footnotesize\ttfamily \label{class_main_window_ab3f662d4a50c4c0c6c7293c2509156de} 
+void Main\+Window\+::analyze\+Measurements (\begin{DoxyParamCaption}\item[{const QList$<$ \mbox{\hyperlink{struct_measurement}{Measurement}} $>$ \&}]{measurements}{}\end{DoxyParamCaption})}
+
+
+
+Analizuje dane pomiarowe i wyświetla wyniki w sekcji analizy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em measurements} & Lista pomiarów do analizy. \\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_main_window_ae6ce94c7afafa56939025daeb8b43f5d}\index{MainWindow@{MainWindow}!calculateDistance@{calculateDistance}}
+\index{calculateDistance@{calculateDistance}!MainWindow@{MainWindow}}
+\doxysubsubsection{\texorpdfstring{calculateDistance()}{calculateDistance()}}
+{\footnotesize\ttfamily \label{class_main_window_ae6ce94c7afafa56939025daeb8b43f5d} 
+double Main\+Window\+::calculate\+Distance (\begin{DoxyParamCaption}\item[{double}]{lat1}{, }\item[{double}]{lon1}{, }\item[{double}]{lat2}{, }\item[{double}]{lon2}{}\end{DoxyParamCaption})}
+
+
+
+Oblicza odległość między dwoma punktami na Ziemi w kilometrach. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em lat1} & Szerokość geograficzna pierwszego punktu. \\
+\hline
+{\em lon1} & Długość geograficzna pierwszego punktu. \\
+\hline
+{\em lat2} & Szerokość geograficzna drugiego punktu. \\
+\hline
+{\em lon2} & Długość geograficzna drugiego punktu. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Odległość w kilometrach. 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+mainwindow.\+h\item 
+mainwindow.\+cpp\end{DoxyCompactItemize}

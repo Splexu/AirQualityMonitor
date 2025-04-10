@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_AirQualityMonitor_FILE C:/Users/michu/Documents/qualiti/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/AirQualityMonitor.exe)
+set(__QT_DEPLOY_TARGET_AirQualityMonitor_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_AirQualityMonitor_RUNTIME_DLLS C:/Qt/6.8.3/mingw_64/bin/Qt6Network.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Charts.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6OpenGLWidgets.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_AirQualityMonitorTests_FILE C:/Users/michu/Documents/qualiti/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/AirQualityMonitorTests.exe)
+set(__QT_DEPLOY_TARGET_AirQualityMonitorTests_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_AirQualityMonitorTests_RUNTIME_DLLS C:/Qt/6.8.3/mingw_64/bin/Qt6Network.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Charts.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Test.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6OpenGLWidgets.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.3/mingw_64/bin/Qt6Core.dll)

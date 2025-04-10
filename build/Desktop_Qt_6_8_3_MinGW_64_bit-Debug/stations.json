@@ -1,0 +1,1268 @@
+[
+    {
+        "id": 11916,
+        "latitude": 53.85255,
+        "longitude": 22.984686,
+        "name": "Augustów, Uzdrowisko"
+    },
+    {
+        "id": 460,
+        "latitude": 51.835242,
+        "longitude": 20.791912,
+        "name": "Belsk Duży, IGF PAN"
+    },
+    {
+        "id": 236,
+        "latitude": 52.029194,
+        "longitude": 23.149389,
+        "name": "Biała Podlaska, ul. Orzechowa"
+    },
+    {
+        "id": 609,
+        "latitude": 53.129306,
+        "longitude": 23.181744,
+        "name": "Białystok, ul. Warszawska"
+    },
+    {
+        "id": 11174,
+        "latitude": 53.144122,
+        "longitude": 23.216322,
+        "name": "Białystok, ul. 42 Pułku Piechoty"
+    },
+    {
+        "id": 11814,
+        "latitude": 53.135286,
+        "longitude": 23.161325,
+        "name": "Białystok, al.Piłsudskiego"
+    },
+    {
+        "id": 17658,
+        "latitude": 53.129601,
+        "longitude": 23.108054,
+        "name": "Białystok, ul. Upalna"
+    },
+    {
+        "id": 789,
+        "latitude": 49.813464,
+        "longitude": 19.027318,
+        "name": "Bielsko-Biała, ul. Kossak-Szczuckiej"
+    },
+    {
+        "id": 10158,
+        "latitude": 49.802075,
+        "longitude": 19.04861,
+        "name": "Bielsko-Biała, ul.Partyzantów"
+    },
+    {
+        "id": 950,
+        "latitude": 52.27672,
+        "longitude": 17.074187,
+        "name": "Borówiec, ul. Drapałka"
+    },
+    {
+        "id": 612,
+        "latitude": 53.215492,
+        "longitude": 23.642153,
+        "name": "Borsukowizna, Szkółka Leśna"
+    },
+    {
+        "id": 16413,
+        "latitude": 50.849509,
+        "longitude": 17.462579,
+        "name": "Brzeg, ul. Poprzeczna"
+    },
+    {
+        "id": 156,
+        "latitude": 53.121764,
+        "longitude": 17.987906,
+        "name": "Bydgoszcz, pl. Poznański"
+    },
+    {
+        "id": 158,
+        "latitude": 53.134083,
+        "longitude": 17.995708,
+        "name": "Bydgoszcz, ul. Warszawska"
+    },
+    {
+        "id": 11576,
+        "latitude": 53.175214,
+        "longitude": 18.044164,
+        "name": "Bydgoszcz, ul. Jeździecka"
+    },
+    {
+        "id": 16270,
+        "latitude": 54.1727,
+        "longitude": 17.49299,
+        "name": "Bytów, ul. Miła"
+    },
+    {
+        "id": 11360,
+        "latitude": 51.122147,
+        "longitude": 23.473075,
+        "name": "Chełm, ul. Połaniecka"
+    },
+    {
+        "id": 12056,
+        "latitude": 51.27428,
+        "longitude": 15.929804,
+        "name": "Chojnów, ul. S. Małachowskiego "
+    },
+    {
+        "id": 20209,
+        "latitude": 52.885541,
+        "longitude": 20.602511,
+        "name": "Ciechanów, ul. Kraszewskiego"
+    },
+    {
+        "id": 164,
+        "latitude": 52.888422,
+        "longitude": 18.780908,
+        "name": "Ciechocinek, ul. Tężniowa"
+    },
+    {
+        "id": 16406,
+        "latitude": 49.755989,
+        "longitude": 18.634075,
+        "name": "Cieszyn, ul. Chopina"
+    },
+    {
+        "id": 11,
+        "latitude": 50.912475,
+        "longitude": 15.31219,
+        "name": "Czerniawa"
+    },
+    {
+        "id": 798,
+        "latitude": 50.817217,
+        "longitude": 19.118997,
+        "name": "Częstochowa, ul. AK/Jana Pawła II"
+    },
+    {
+        "id": 800,
+        "latitude": 50.836389,
+        "longitude": 19.130111,
+        "name": "Częstochowa, ul. Baczyńskiego"
+    },
+    {
+        "id": 805,
+        "latitude": 50.329111,
+        "longitude": 19.231222,
+        "name": "Dąbrowa Górnicza, ul. Tysiąclecia"
+    },
+    {
+        "id": 9173,
+        "latitude": 50.054786,
+        "longitude": 21.416256,
+        "name": "Dębica, ul.Grottgera"
+    },
+    {
+        "id": 10093,
+        "latitude": 50.402561,
+        "longitude": 16.393311,
+        "name": "Duszniki-Zdrój, ul. Sportowa"
+    },
+    {
+        "id": 16,
+        "latitude": 50.732817,
+        "longitude": 16.64805,
+        "name": "Dzierżoniów, ul. Piłsudskiego"
+    },
+    {
+        "id": 861,
+        "latitude": 54.167847,
+        "longitude": 19.410942,
+        "name": "Elbląg, ul. Bażyńskiego"
+    },
+    {
+        "id": 10005,
+        "latitude": 53.828389,
+        "longitude": 22.348338,
+        "name": "Ełk, ul. Piłsudskiego"
+    },
+    {
+        "id": 291,
+        "latitude": 52.143258,
+        "longitude": 19.233217,
+        "name": "Gajew, Ujęcie Wody"
+    },
+    {
+        "id": 729,
+        "latitude": 54.353196,
+        "longitude": 18.635267,
+        "name": "Gdańsk, ul. Powstańców Warszawskich"
+    },
+    {
+        "id": 731,
+        "latitude": 54.400788,
+        "longitude": 18.657332,
+        "name": "Gdańsk, ul. Wyzwolenia"
+    },
+    {
+        "id": 736,
+        "latitude": 54.380139,
+        "longitude": 18.619766,
+        "name": "Gdańsk, ul. Leczkowa"
+    },
+    {
+        "id": 16180,
+        "latitude": 54.380682,
+        "longitude": 18.601559,
+        "name": "Gdańsk, Al. Grunwaldzka"
+    },
+    {
+        "id": 20347,
+        "latitude": 54.328833,
+        "longitude": 18.568819,
+        "name": "Gdańsk, ul. Lawendowe Wzgórze"
+    },
+    {
+        "id": 732,
+        "latitude": 54.560836,
+        "longitude": 18.493331,
+        "name": "Gdynia, ul. Porębskiego"
+    },
+    {
+        "id": 20447,
+        "latitude": 54.04321,
+        "longitude": 21.784858,
+        "name": "Giżycko, ul. Wodociągowa"
+    },
+    {
+        "id": 809,
+        "latitude": 50.279481,
+        "longitude": 18.655736,
+        "name": "Gliwice, ul. Mewy"
+    },
+    {
+        "id": 10018,
+        "latitude": 50.200778,
+        "longitude": 17.83051,
+        "name": "Głubczyce, ul. Ratuszowa"
+    },
+    {
+        "id": 870,
+        "latitude": 54.305908,
+        "longitude": 22.307681,
+        "name": "Gołdap, ul. Jaćwieska"
+    },
+    {
+        "id": 361,
+        "latitude": 52.738214,
+        "longitude": 15.228667,
+        "name": "Gorzów Wlkp. ul. Kosynierów Gdyńskich"
+    },
+    {
+        "id": 466,
+        "latitude": 52.285858,
+        "longitude": 20.454653,
+        "name": "Granica, KPN"
+    },
+    {
+        "id": 142,
+        "latitude": 53.49355,
+        "longitude": 18.762139,
+        "name": "Grudziądz, ul. Piłsudskiego"
+    },
+    {
+        "id": 143,
+        "latitude": 52.793122,
+        "longitude": 18.241044,
+        "name": "Inowrocław, ul. Solankowa"
+    },
+    {
+        "id": 248,
+        "latitude": 51.814367,
+        "longitude": 21.972375,
+        "name": "Jarczew, IMGW"
+    },
+    {
+        "id": 631,
+        "latitude": 50.012083,
+        "longitude": 22.674772,
+        "name": "Jarosław, ul. Pruchnicka"
+    },
+    {
+        "id": 638,
+        "latitude": 49.744886,
+        "longitude": 21.454617,
+        "name": "Jaslo, ul. Sikorskiego"
+    },
+    {
+        "id": 11855,
+        "latitude": 49.952544,
+        "longitude": 18.607953,
+        "name": "Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska"
+    },
+    {
+        "id": 9153,
+        "latitude": 50.913433,
+        "longitude": 15.765608,
+        "name": "Jelenia Góra, ul. Ogińskiego"
+    },
+    {
+        "id": 684,
+        "latitude": 50.575742,
+        "longitude": 21.688367,
+        "name": "Tarnobrzeg, ul. Dąbrowskiej"
+    },
+    {
+        "id": 444,
+        "latitude": 50.020169,
+        "longitude": 21.004167,
+        "name": "Tarnów, ul. Bitwy pod Studziankami"
+    },
+    {
+        "id": 10120,
+        "latitude": 50.018253,
+        "longitude": 20.992578,
+        "name": "Tarnów, ul. Ks. Romana Sitko"
+    },
+    {
+        "id": 20277,
+        "latitude": 50.444128,
+        "longitude": 23.421553,
+        "name": "Tomaszów Lubelski, ul. Janusza Petera"
+    },
+    {
+        "id": 145,
+        "latitude": 53.012475,
+        "longitude": 18.605681,
+        "name": "Toruń, ul. Wały gen. Sikorskiego"
+    },
+    {
+        "id": 206,
+        "latitude": 53.028647,
+        "longitude": 18.666103,
+        "name": "Toruń, ul. Dziewulskiego"
+    },
+    {
+        "id": 208,
+        "latitude": 53.017628,
+        "longitude": 18.612808,
+        "name": "Toruń, ul. Przy Kaszowniku"
+    },
+    {
+        "id": 449,
+        "latitude": 50.159406,
+        "longitude": 19.477464,
+        "name": "Trzebinia, os. Związku Walki Młodych"
+    },
+    {
+        "id": 11934,
+        "latitude": 51.304817,
+        "longitude": 17.071367,
+        "name": "Trzebnica, ul. 3 Maja"
+    },
+    {
+        "id": 841,
+        "latitude": 50.099903,
+        "longitude": 18.990236,
+        "name": "Tychy, ul. Tołstoja"
+    },
+    {
+        "id": 842,
+        "latitude": 49.719731,
+        "longitude": 18.826722,
+        "name": "Ustroń, ul. Sanatoryjna"
+    },
+    {
+        "id": 17118,
+        "latitude": 49.440175,
+        "longitude": 21.178087,
+        "name": "Wysowa-Zdrój, Park Zdrojowy"
+    },
+    {
+        "id": 109,
+        "latitude": 50.768729,
+        "longitude": 16.269677,
+        "name": "Wałbrzych, ul. Wysockiego"
+    },
+    {
+        "id": 530,
+        "latitude": 52.219298,
+        "longitude": 21.004724,
+        "name": "Warszawa, al. Niepodległości"
+    },
+    {
+        "id": 550,
+        "latitude": 52.160772,
+        "longitude": 21.033819,
+        "name": "Warszawa, ul. Wokalna"
+    },
+    {
+        "id": 552,
+        "latitude": 52.290864,
+        "longitude": 21.042458,
+        "name": "Warszawa, ul. Kondratowicza"
+    },
+    {
+        "id": 10955,
+        "latitude": 52.207742,
+        "longitude": 20.906073,
+        "name": "Warszawa, ul. Chrościckiego"
+    },
+    {
+        "id": 10956,
+        "latitude": 52.188474,
+        "longitude": 21.176233,
+        "name": "Warszawa, ul. Bajkowa"
+    },
+    {
+        "id": 16533,
+        "latitude": 52.281304,
+        "longitude": 20.963383,
+        "name": "Warszawa, IMGW"
+    },
+    {
+        "id": 961,
+        "latitude": 53.122325,
+        "longitude": 14.382245,
+        "name": "Widuchowa"
+    },
+    {
+        "id": 282,
+        "latitude": 51.163542,
+        "longitude": 22.598608,
+        "name": "Wilczopole"
+    },
+    {
+        "id": 225,
+        "latitude": 52.658467,
+        "longitude": 19.059314,
+        "name": "Włocławek, ul. Okrzei"
+    },
+    {
+        "id": 9791,
+        "latitude": 52.637394,
+        "longitude": 19.044486,
+        "name": "Włocławek, ul. Kaliska"
+    },
+    {
+        "id": 845,
+        "latitude": 50.007629,
+        "longitude": 18.455548,
+        "name": "Wodzisław Śląski, ul. Gałczyńskiego"
+    },
+    {
+        "id": 114,
+        "latitude": 51.115933,
+        "longitude": 17.141125,
+        "name": "Wrocław, ul. Bartnicza"
+    },
+    {
+        "id": 117,
+        "latitude": 51.129378,
+        "longitude": 17.02925,
+        "name": "Wrocław, wyb. Conrada-Korzeniowskiego"
+    },
+    {
+        "id": 129,
+        "latitude": 51.086225,
+        "longitude": 17.012689,
+        "name": "Wrocław, al. Wiśniowa"
+    },
+    {
+        "id": 379,
+        "latitude": 51.799722,
+        "longitude": 16.3175,
+        "name": "Wschowa ul. Kazimierza Wielkiego"
+    },
+    {
+        "id": 17880,
+        "latitude": 50.317072,
+        "longitude": 18.771258,
+        "name": "Zabrze, ul. M. Skłodowskiej-Curie"
+    },
+    {
+        "id": 459,
+        "latitude": 49.293564,
+        "longitude": 19.960083,
+        "name": "Zakopane, ul. Sienkiewicza"
+    },
+    {
+        "id": 285,
+        "latitude": 50.716628,
+        "longitude": 23.290247,
+        "name": "Zamość, ul. Hrubieszowska"
+    },
+    {
+        "id": 11455,
+        "latitude": 50.493045,
+        "longitude": 19.439012,
+        "name": "Zawiercie, ul. K.I.Gałczyńskiego"
+    },
+    {
+        "id": 600,
+        "latitude": 50.423533,
+        "longitude": 18.120739,
+        "name": "Zdzieszowice, ul. Piastów"
+    },
+    {
+        "id": 387,
+        "latitude": 51.939783,
+        "longitude": 15.518861,
+        "name": "Zielona Góra ul. Krótka"
+    },
+    {
+        "id": 11294,
+        "latitude": 51.936249,
+        "longitude": 15.481077,
+        "name": "Zielona Góra,ul.Wyszyńskiego"
+    },
+    {
+        "id": 232,
+        "latitude": 53.662117,
+        "longitude": 17.934017,
+        "name": "Zielonka, Bory Tucholskie"
+    },
+    {
+        "id": 853,
+        "latitude": 50.710889,
+        "longitude": 19.458797,
+        "name": "Złoty Potok, Leśniczówka"
+    },
+    {
+        "id": 382,
+        "latitude": 51.642656,
+        "longitude": 15.127808,
+        "name": "Żary, ul. Szymanowskiego "
+    },
+    {
+        "id": 562,
+        "latitude": 52.053811,
+        "longitude": 20.429892,
+        "name": "Żyrardów, ul. Roosevelta"
+    },
+    {
+        "id": 856,
+        "latitude": 49.671602,
+        "longitude": 19.234446,
+        "name": "Żywiec, ul. Kopernika"
+    },
+    {
+        "id": 10119,
+        "latitude": 50.025028,
+        "longitude": 19.726833,
+        "name": "Kaszów"
+    },
+    {
+        "id": 10834,
+        "latitude": 52.449295,
+        "longitude": 16.999634,
+        "name": "Koziegłowy, os.Leśne"
+    },
+    {
+        "id": 10874,
+        "latitude": 50.551894,
+        "longitude": 22.982861,
+        "name": "Florianka, RPN"
+    },
+    {
+        "id": 11434,
+        "latitude": 50.116028,
+        "longitude": 19.800639,
+        "name": "Zabierzów, ul. Wapienna"
+    },
+    {
+        "id": 11754,
+        "latitude": 50.621482,
+        "longitude": 20.614057,
+        "name": "Gołuchów, Ujęcie Wody"
+    },
+    {
+        "id": 12138,
+        "latitude": 50.778479,
+        "longitude": 21.081224,
+        "name": "Łagów, ul. Zapłotnia"
+    },
+    {
+        "id": 10817,
+        "latitude": 49.374147,
+        "longitude": 20.879581,
+        "name": "Złockie, szkoła podstawowa"
+    },
+    {
+        "id": 9913,
+        "latitude": 52.943172,
+        "longitude": 21.288167,
+        "name": "Guty Duże"
+    },
+    {
+        "id": 11457,
+        "latitude": 49.93785,
+        "longitude": 18.975594,
+        "name": "Goczałkowice Zdrój, ul. Parkowa"
+    },
+    {
+        "id": 11358,
+        "latitude": 52.602534,
+        "longitude": 19.6451,
+        "name": "Biała, ul. Kmicica"
+    },
+    {
+        "id": 16495,
+        "latitude": 52.241497,
+        "longitude": 16.865125,
+        "name": "Mosina, ul. Czereśniowa"
+    },
+    {
+        "id": 952,
+        "latitude": 51.74795,
+        "longitude": 18.049063,
+        "name": "Kalisz, ul. Wyszyńskiego"
+    },
+    {
+        "id": 814,
+        "latitude": 50.264611,
+        "longitude": 18.975028,
+        "name": "Katowice, ul. Kossutha"
+    },
+    {
+        "id": 17318,
+        "latitude": 50.258483,
+        "longitude": 19.036217,
+        "name": "Katowice, ul. Dudy-Gracza"
+    },
+    {
+        "id": 568,
+        "latitude": 50.349608,
+        "longitude": 18.236575,
+        "name": "Kędzierzyn-Koźle, ul. Śmiałego"
+    },
+    {
+        "id": 11195,
+        "latitude": 50.878998,
+        "longitude": 20.633692,
+        "name": "Kielce, ul. Targowa"
+    },
+    {
+        "id": 16196,
+        "latitude": 50.886014,
+        "longitude": 20.642858,
+        "name": "Kielce, ul. Warszawska 108"
+    },
+    {
+        "id": 16497,
+        "latitude": 50.887606,
+        "longitude": 20.579965,
+        "name": "Kielce, ul. Jurajska"
+    },
+    {
+        "id": 577,
+        "latitude": 50.972181,
+        "longitude": 18.207575,
+        "name": "Kluczbork, ul. Mickiewicza"
+    },
+    {
+        "id": 38,
+        "latitude": 50.433493,
+        "longitude": 16.65366,
+        "name": "Kłodzko, ul. Szkolna"
+    },
+    {
+        "id": 20200,
+        "latitude": 50.245897,
+        "longitude": 21.769494,
+        "name": "Kolbuszowa, ul. Jana Pawła II"
+    },
+    {
+        "id": 10934,
+        "latitude": 54.179381,
+        "longitude": 15.596347,
+        "name": "Kołobrzeg, ul. Żółkiewskiego"
+    },
+    {
+        "id": 190,
+        "latitude": 53.080647,
+        "longitude": 18.684258,
+        "name": "Koniczynka, Pojezierze Chełmińskie"
+    },
+    {
+        "id": 902,
+        "latitude": 52.22565,
+        "longitude": 18.268927,
+        "name": "Konin, ul. Wyszyńskiego"
+    },
+    {
+        "id": 16271,
+        "latitude": 52.082277,
+        "longitude": 21.124598,
+        "name": "Konstancin-Jeziorna, ul. Żeromskiego"
+    },
+    {
+        "id": 966,
+        "latitude": 54.193986,
+        "longitude": 16.172544,
+        "name": "Koszalin, ul. Armii Krajowej"
+    },
+    {
+        "id": 11336,
+        "latitude": 54.194114,
+        "longitude": 16.211672,
+        "name": "Koszalin, ul. Chopina"
+    },
+    {
+        "id": 740,
+        "latitude": 54.120694,
+        "longitude": 17.975861,
+        "name": "Kościerzyna, ul. Targowa"
+    },
+    {
+        "id": 400,
+        "latitude": 50.057678,
+        "longitude": 19.926189,
+        "name": "Kraków, Aleja Krasińskiego"
+    },
+    {
+        "id": 401,
+        "latitude": 50.010575,
+        "longitude": 19.949189,
+        "name": "Kraków, ul. Bujaka"
+    },
+    {
+        "id": 402,
+        "latitude": 50.069308,
+        "longitude": 20.053492,
+        "name": "Kraków, ul. Bulwarowa"
+    },
+    {
+        "id": 10123,
+        "latitude": 50.081197,
+        "longitude": 19.895358,
+        "name": "Kraków, ul. Złoty Róg"
+    },
+    {
+        "id": 10139,
+        "latitude": 50.098508,
+        "longitude": 20.018269,
+        "name": "Kraków, os. Piastów"
+    },
+    {
+        "id": 10447,
+        "latitude": 50.100569,
+        "longitude": 20.122561,
+        "name": "Kraków, os. Wadów"
+    },
+    {
+        "id": 11303,
+        "latitude": 49.991442,
+        "longitude": 19.936792,
+        "name": "Kraków, os. Swoszowice"
+    },
+    {
+        "id": 16896,
+        "latitude": 50.024605,
+        "longitude": 19.97846,
+        "name": "Kraków, ul. Kamieńskiego"
+    },
+    {
+        "id": 20367,
+        "latitude": 50.034702,
+        "longitude": 20.044386,
+        "name": "Kraków, ul. Półłanki"
+    },
+    {
+        "id": 16913,
+        "latitude": 50.486194,
+        "longitude": 17.97477,
+        "name": "Krapkowice, ul. 3 Maja"
+    },
+    {
+        "id": 9175,
+        "latitude": 49.511297,
+        "longitude": 21.498606,
+        "name": "Krempna, Ośrodek edukacyjno-muzealny MPN"
+    },
+    {
+        "id": 646,
+        "latitude": 49.690169,
+        "longitude": 21.7497,
+        "name": "Krosno, ul. Kletówki"
+    },
+    {
+        "id": 20307,
+        "latitude": 51.697308,
+        "longitude": 17.441263,
+        "name": "Krotoszyn, ul. Olimpijska"
+    },
+    {
+        "id": 946,
+        "latitude": 52.501318,
+        "longitude": 17.773175,
+        "name": "Piaski, Krzyżówka"
+    },
+    {
+        "id": 471,
+        "latitude": 52.407578,
+        "longitude": 20.955928,
+        "name": "Legionowo, ul. Zegrzyńska"
+    },
+    {
+        "id": 52,
+        "latitude": 51.204503,
+        "longitude": 16.180513,
+        "name": "Legnica, al. Rzeczypospolitej"
+    },
+    {
+        "id": 742,
+        "latitude": 54.546167,
+        "longitude": 17.746194,
+        "name": "Lębork, ul. Malczewskiego"
+    },
+    {
+        "id": 743,
+        "latitude": 54.104111,
+        "longitude": 18.182972,
+        "name": "Liniewko Kościerskie"
+    },
+    {
+        "id": 20468,
+        "latitude": 51.120091,
+        "longitude": 15.298189,
+        "name": "Lubań, ul. Ludowa"
+    },
+    {
+        "id": 266,
+        "latitude": 51.259431,
+        "longitude": 22.569133,
+        "name": "Lublin, ul. Obywatelska"
+    },
+    {
+        "id": 11278,
+        "latitude": 50.675693,
+        "longitude": 18.682065,
+        "name": "Lubliniec, ul. ks. Szymały"
+    },
+    {
+        "id": 11554,
+        "latitude": 51.589208,
+        "longitude": 19.131433,
+        "name": "Łask, ul. Narutowicza"
+    },
+    {
+        "id": 750,
+        "latitude": 54.754139,
+        "longitude": 17.534528,
+        "name": "Łeba, IMGW"
+    },
+    {
+        "id": 618,
+        "latitude": 53.181394,
+        "longitude": 22.054381,
+        "name": "Łomża, ul. Sikorskiego"
+    },
+    {
+        "id": 295,
+        "latitude": 51.75805,
+        "longitude": 19.529786,
+        "name": "Łódź, ul. Czernika"
+    },
+    {
+        "id": 296,
+        "latitude": 51.775378,
+        "longitude": 19.450992,
+        "name": "Łódź, ul. Gdańska"
+    },
+    {
+        "id": 10058,
+        "latitude": 51.754613,
+        "longitude": 19.434925,
+        "name": "Łódź, al. Jana Pawła II"
+    },
+    {
+        "id": 741,
+        "latitude": 54.031247,
+        "longitude": 19.032899,
+        "name": "Malbork, ul. Mickiewicza"
+    },
+    {
+        "id": 10794,
+        "latitude": 50.80961,
+        "longitude": 20.266032,
+        "name": "Małogoszcz, ul. Słoneczna"
+    },
+    {
+        "id": 10438,
+        "latitude": 50.299128,
+        "longitude": 21.440942,
+        "name": "Mielec, ul. Biernackiego"
+    },
+    {
+        "id": 16753,
+        "latitude": 49.831237,
+        "longitude": 19.923591,
+        "name": "Myślenice"
+    },
+    {
+        "id": 9798,
+        "latitude": 53.136681,
+        "longitude": 17.591539,
+        "name": "Nakło nad Notecią, ul. Św. Wawrzyńca"
+    },
+    {
+        "id": 455,
+        "latitude": 50.035117,
+        "longitude": 20.212689,
+        "name": "Niepołomice, ul. 3 Maja"
+    },
+    {
+        "id": 659,
+        "latitude": 50.529892,
+        "longitude": 22.112467,
+        "name": "Nisko, ul. Szklarniowa"
+    },
+    {
+        "id": 11254,
+        "latitude": 50.581492,
+        "longitude": 16.498245,
+        "name": "Nowa Ruda, ul. Jeziorna"
+    },
+    {
+        "id": 16613,
+        "latitude": 51.809103,
+        "longitude": 15.708042,
+        "name": "Nowa Sól"
+    },
+    {
+        "id": 769,
+        "latitude": 50.823108,
+        "longitude": 20.533506,
+        "name": "Nowiny, ul. Parkowa"
+    },
+    {
+        "id": 426,
+        "latitude": 49.619281,
+        "longitude": 20.714403,
+        "name": "Nowy Sącz, ul. Nadbrzeżna"
+    },
+    {
+        "id": 16894,
+        "latitude": 49.476675,
+        "longitude": 20.034878,
+        "name": "Nowy Targ, al. Tysiąclecia "
+    },
+    {
+        "id": 20387,
+        "latitude": 50.460992,
+        "longitude": 17.331499,
+        "name": "Nysa, ul. Rodziewiczówny 1"
+    },
+    {
+        "id": 584,
+        "latitude": 50.876983,
+        "longitude": 18.416878,
+        "name": "Olesno, ul. Słowackiego"
+    },
+    {
+        "id": 11301,
+        "latitude": 50.284,
+        "longitude": 19.564044,
+        "name": "Olkusz, ul. Cegielniana"
+    },
+    {
+        "id": 877,
+        "latitude": 53.789233,
+        "longitude": 20.486075,
+        "name": "Olsztyn, ul. Puszkina"
+    },
+    {
+        "id": 70,
+        "latitude": 50.942073,
+        "longitude": 17.291333,
+        "name": "Oława, ul. Żołnierzy Armii Krajowej"
+    },
+    {
+        "id": 590,
+        "latitude": 50.676856,
+        "longitude": 17.950278,
+        "name": "Opole, os. Armii Krajowej"
+    },
+    {
+        "id": 10374,
+        "latitude": 50.666736,
+        "longitude": 17.899137,
+        "name": "Opole, ul. Koszyka"
+    },
+    {
+        "id": 74,
+        "latitude": 51.31763,
+        "longitude": 15.431719,
+        "name": "Osieczów"
+    },
+    {
+        "id": 9114,
+        "latitude": 53.083736,
+        "longitude": 21.579322,
+        "name": "Ostrołęka, ul. Hallera"
+    },
+    {
+        "id": 10030,
+        "latitude": 53.694587,
+        "longitude": 19.969041,
+        "name": "Ostróda, ul. Piłsudskiego"
+    },
+    {
+        "id": 10814,
+        "latitude": 50.033083,
+        "longitude": 19.245275,
+        "name": "Oświęcim, ul. J. Bema"
+    },
+    {
+        "id": 485,
+        "latitude": 52.115725,
+        "longitude": 21.237297,
+        "name": "Otwock, ul. Brzozowa"
+    },
+    {
+        "id": 314,
+        "latitude": 51.667981,
+        "longitude": 19.368683,
+        "name": "Pabianice, ul. Konstantynowska"
+    },
+    {
+        "id": 319,
+        "latitude": 51.291175,
+        "longitude": 19.517556,
+        "name": "Parzniewice, Ujęcie Wody"
+    },
+    {
+        "id": 488,
+        "latitude": 52.191728,
+        "longitude": 20.837489,
+        "name": "Piastów, ul. Pułaskiego"
+    },
+    {
+        "id": 920,
+        "latitude": 53.154408,
+        "longitude": 16.759572,
+        "name": "Pila, ul. Kusocińskiego"
+    },
+    {
+        "id": 322,
+        "latitude": 51.404406,
+        "longitude": 19.696956,
+        "name": "Piotrków Trybunalski, ul. Krakowskie Przedmieście"
+    },
+    {
+        "id": 9218,
+        "latitude": 51.884922,
+        "longitude": 17.791106,
+        "name": "Pleszew, Al. Mickiewicza"
+    },
+    {
+        "id": 497,
+        "latitude": 52.556279,
+        "longitude": 19.687672,
+        "name": "Płock, ul. Królowej Jadwigi"
+    },
+    {
+        "id": 501,
+        "latitude": 52.550938,
+        "longitude": 19.709791,
+        "name": "Płock, ul. Reja"
+    },
+    {
+        "id": 778,
+        "latitude": 50.429014,
+        "longitude": 21.277367,
+        "name": "Połaniec, ul. Ruszczańska"
+    },
+    {
+        "id": 944,
+        "latitude": 52.420319,
+        "longitude": 16.877289,
+        "name": "Poznań, ul. Dąbrowskiego"
+    },
+    {
+        "id": 16493,
+        "latitude": 52.390879,
+        "longitude": 16.998053,
+        "name": "Poznań ul. Szwajcarska"
+    },
+    {
+        "id": 665,
+        "latitude": 49.784339,
+        "longitude": 22.756239,
+        "name": "Przemyśl, ul. Grunwaldzka"
+    },
+    {
+        "id": 10446,
+        "latitude": 49.608647,
+        "longitude": 19.966008,
+        "name": "Rabka-Zdrój, ul. Orkana"
+    },
+    {
+        "id": 11794,
+        "latitude": 50.091142,
+        "longitude": 18.216261,
+        "name": "Racibórz, Wojska Polskiego"
+    },
+    {
+        "id": 515,
+        "latitude": 51.399084,
+        "longitude": 21.147474,
+        "name": "Radom, ul. Tochtermana"
+    },
+    {
+        "id": 331,
+        "latitude": 51.067417,
+        "longitude": 19.448714,
+        "name": "Radomsko, ul. Rolna"
+    },
+    {
+        "id": 834,
+        "latitude": 50.111181,
+        "longitude": 18.516139,
+        "name": "Rybnik, ul. Borki"
+    },
+    {
+        "id": 10414,
+        "latitude": 49.546539,
+        "longitude": 21.851006,
+        "name": "Rymanów Zdrój, ul. Parkowa"
+    },
+    {
+        "id": 671,
+        "latitude": 50.024242,
+        "longitude": 22.010575,
+        "name": "Rzeszów, ul. Rejtana"
+    },
+    {
+        "id": 10125,
+        "latitude": 50.040675,
+        "longitude": 22.004656,
+        "name": "Rzeszów, ul. Piłsudskiego"
+    },
+    {
+        "id": 17179,
+        "latitude": 50.060381,
+        "longitude": 21.980511,
+        "name": "Rzeszów, ul. Starzyńskiego"
+    },
+    {
+        "id": 20201,
+        "latitude": 49.998408,
+        "longitude": 21.992183,
+        "name": "Rzeszów, ul. Kwiatkowskiego"
+    },
+    {
+        "id": 678,
+        "latitude": 49.571731,
+        "longitude": 22.195892,
+        "name": "Sanok, ul. Sadowa"
+    },
+    {
+        "id": 517,
+        "latitude": 52.172145,
+        "longitude": 22.282001,
+        "name": "Siedlce, ul. Konarskiego"
+    },
+    {
+        "id": 17758,
+        "latitude": 51.115842,
+        "longitude": 20.891593,
+        "name": "Skarżysko-Kamienna, ul. 1 Maja"
+    },
+    {
+        "id": 437,
+        "latitude": 49.971047,
+        "longitude": 19.830422,
+        "name": "Skawina, os. Ogrody"
+    },
+    {
+        "id": 725,
+        "latitude": 54.463611,
+        "longitude": 17.046722,
+        "name": "Słupsk, ul. Kniaziewicza"
+    },
+    {
+        "id": 374,
+        "latitude": 52.172222,
+        "longitude": 15.206667,
+        "name": "Smolary Bytnickie"
+    },
+    {
+        "id": 16242,
+        "latitude": 54.43451,
+        "longitude": 18.57884,
+        "name": "Sopot, ul. Bitwy Pod Płowcami"
+    },
+    {
+        "id": 837,
+        "latitude": 50.285956,
+        "longitude": 19.184399,
+        "name": "Sosnowiec, ul. Lubelska"
+    },
+    {
+        "id": 10124,
+        "latitude": 49.743131,
+        "longitude": 19.600339,
+        "name": "Sucha Beskidzka, ul. Nieszczyńskiej"
+    },
+    {
+        "id": 16238,
+        "latitude": 52.084833,
+        "longitude": 15.63325,
+        "name": "Sulechów, ul. Licealna"
+    },
+    {
+        "id": 376,
+        "latitude": 52.437722,
+        "longitude": 15.122444,
+        "name": "Sulęcin ul. Dudka"
+    },
+    {
+        "id": 11154,
+        "latitude": 54.115897,
+        "longitude": 22.938464,
+        "name": "Suwałki, ul. Pułaskiego 26"
+    },
+    {
+        "id": 9179,
+        "latitude": 50.0075,
+        "longitude": 20.259167,
+        "name": "Szarów, ul. Spokojna"
+    },
+    {
+        "id": 986,
+        "latitude": 53.380975,
+        "longitude": 14.663347,
+        "name": "Szczecin, ul. Andrzejewskiego"
+    },
+    {
+        "id": 987,
+        "latitude": 53.432169,
+        "longitude": 14.5539,
+        "name": "Szczecin, ul. Piłsudskiego"
+    },
+    {
+        "id": 989,
+        "latitude": 53.470889,
+        "longitude": 14.55625,
+        "name": "Szczecin, ul. Łączna"
+    },
+    {
+        "id": 983,
+        "latitude": 53.698902,
+        "longitude": 16.704556,
+        "name": "Szczecinek, ul. Przemysłowa"
+    },
+    {
+        "id": 443,
+        "latitude": 49.633714,
+        "longitude": 21.116833,
+        "name": "Szymbark"
+    },
+    {
+        "id": 12038,
+        "latitude": 53.40758,
+        "longitude": 18.428751,
+        "name": "Świecie, al. Jana Pawła II"
+    },
+    {
+        "id": 20160,
+        "latitude": 53.903814,
+        "longitude": 14.279628,
+        "name": "Świnoujście, ul. Białoruska"
+    }
+]
