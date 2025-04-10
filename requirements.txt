@@ -1,0 +1,9 @@
+Wymagania
+---------
+- Qt 6.8.3 (MinGW 64-bit)
+- CMake 3.16 lub nowszy
+- Kompilator MinGW (np. dostarczony z Qt)
+
+Autor
+-----
+Splexu (Michał)
